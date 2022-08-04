@@ -1,0 +1,17 @@
+/* @media (max-width: 970px) {
+    .desktop-mode-on-mobile .container {
+        width: 980px;
+    }
+    .desktop-mode-on-mobile .s-favorites .container {
+        flex-wrap: nowrap;
+    }
+    .desktop-mode-on-mobile .s-discover .container > .left, .s-favorites .container > .left {
+        display: block;
+    }
+    .desktop-mode-on-mobile .s-favorites .left {
+        width: 280px;
+    }
+    .desktop-mode-on-mobile .filter_mob_btn {
+        display: none;
+    }
+} */
